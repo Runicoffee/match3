@@ -19,12 +19,6 @@
  * hedelman koordinaatit ja painamalla Vaida nappia. Tarkempi kuvaus pelista
  * instuctions.txt -tiedostossa
  *
- * Ohjelman kirjoittaja
- * Nimi: Elmeri Lehtiniemi
- * Opiskelijanumero: H291743
- * Ksyttsjstunnus: nqelle
- * E-Mail: elmeri.lehtiniemi@tuni.fi
- * Palautteen kieli (fi/en): fi
  *
  *
  *
